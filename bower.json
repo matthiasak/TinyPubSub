@@ -1,0 +1,17 @@
+{
+  "name": "TinyPubSub",
+  "version": "1.0",
+  "homepage": "https://github.com/matthiasak/TinyPubSub",
+  "authors": [
+    "Matt Keas <matthiasak@gmail.com>"
+  ],
+  "description": "A Tiny 36-line PubSub module",
+  "main": "pubsub.js",
+  "keywords": [
+    "pubsub",
+    "tiny",
+    "micro",
+    "js"
+  ],
+  "license": "MIT"
+}
